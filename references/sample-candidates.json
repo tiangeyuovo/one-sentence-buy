@@ -1,0 +1,27 @@
+[
+  {
+    "name": "候选商品A",
+    "price": 129,
+    "currency": "CNY",
+    "url": "https://item.taobao.com/item.htm?id=1234567890",
+    "specs": [
+      "用户硬性要求1",
+      "用户硬性要求2",
+      "加分参数"
+    ],
+    "review_summary": "用户提供或搜索得到的评价摘要。",
+    "notes": "其他可用信息。"
+  },
+  {
+    "name": "候选商品B",
+    "price": 89,
+    "currency": "CNY",
+    "url": "https://item.taobao.com/item.htm?id=2234567890",
+    "specs": [
+      "价格更低",
+      "但缺少某个关键要求"
+    ],
+    "review_summary": "部分评价反馈与用户核心场景冲突。",
+    "notes": "其他可用信息。"
+  }
+]

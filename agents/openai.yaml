@@ -1,0 +1,5 @@
+interface:
+  display_name: "一句话买对"
+  short_description: "一句话生成通用购物决策、避雷清单和购买入口"
+  icon: "shopping-bag"
+  brand_color: "#FF6A00"
